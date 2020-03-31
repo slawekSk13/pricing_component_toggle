@@ -236,11 +236,5 @@ input:checked + .slider:before {
   }
   .attribution {
     opacity: 0;
-    width: 30%;
-    padding: 0 auto;
-    position: absolute;
-    bottom: 0;
-    left: 35%;
-    text-align: center;
   }
 }
