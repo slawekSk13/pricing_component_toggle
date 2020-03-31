@@ -204,6 +204,8 @@ input:checked + .slider:before {
 
 @media (max-width: 1080px) {
   section {
+    padding-left: 10%;
+    padding-right: 10%;
     flex-direction: column;
     justify-content: space-around;
   }
