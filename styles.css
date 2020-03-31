@@ -214,12 +214,12 @@ input:checked + .slider:before {
     padding-bottom: 5%;
     box-shadow: none;
     z-index: 0;
-    width: 350px;
+    width: 280px;
   }
   .white-background {
     padding-top: 5%;
     padding-bottom: 5%;
-    width: 350px;
+    width: 280px;
   }
   .corners-round-left {
     border-radius: 10px;
