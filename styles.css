@@ -34,6 +34,7 @@ h3 {
 
 section {
   display: flex;
+  justify-content: center;
   align-items: center;
   align-self: center;
 }
@@ -51,6 +52,8 @@ section {
   flex: 34 200px;
   box-shadow: 0 0 20px #b3b5c6;
   z-index: 1;
+  position: relative;
+  bottom: 14px;
 }
 
 .purple-background .btn {
@@ -217,6 +220,8 @@ input:checked + .slider:before {
     box-shadow: none;
     z-index: 0;
     width: 320px;
+    position: relative;
+    bottom: 0;
   }
   .white-background {
     padding-top: 5%;
